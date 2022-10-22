@@ -1,6 +1,8 @@
 Welcome to SWMR Project
 
-StormWorks Music Replacer is programm maked on Python and using ffmpeg.
+StormWorks Music Replacer is maked on Python and using ffmpeg
+
+
 
 Install requirements with "pip install -r requirements.txt"
 
